@@ -73,14 +73,12 @@
   </div>
 </h2>
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/aguscabralr](https://www.linkedin.com/in/aguscabralr)
+- 📝 I usually inform about my post on [https://www.linkedin.com/in/matias-gigena-7bk/](https://www.linkedin.com/in/matias-gigena-7bk/)
 
-- 📫 How to reach me **acabralrobledo@gmail.com**
+- 📫 Hire me **matias.gigena7@outlook.es**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aguscabralr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aguscabralr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aguscabralr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aguscabralr" height="30" width="40" /></a>
-<a href="https://instagram.com/aguscabralr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aguscabralr" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/acabralrobledo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="acabralrobledo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/matias-gigena-7bk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aguscabralr" height="30" width="40" /></a>
+<a href="https://instagram.com/matiasgigena_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aguscabralr" height="30" width="40" /></a>
 </p>
