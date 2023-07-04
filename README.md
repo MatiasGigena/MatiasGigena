@@ -23,6 +23,9 @@
             <td align="center">
               <h6><a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50"></a><p>Redux     </p></h6>
             </td>
+             <td align="center">
+              <h6><a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" alt="Next" width="50" height="50"></a><p>Next      </p></h6>
+            </td>
             <td align="center">
               <h6><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node" width="50" height="50"></a><p>Node      </p></h6>
             </td>
@@ -31,6 +34,9 @@
             </td>
             <td align="center">
               <h6><a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="50" height="50"></a><p>Sequelize </p></h6>
+            </td>
+              <td align="center">
+              <h6><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="50" height="50"></a><p>Tailwind  </p></h6>
             </td>
             <td align="center">
               <h6><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"></a><p>PostgreSQL</p></h6>
@@ -60,12 +66,8 @@
             <td align="center">
               <h6><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript" width="50" height="50"></a><p>TypeScript</p></h6>
             </td>
-            <td align="center">
-              <h6><a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" alt="Next" width="50" height="50"></a><p>Next      </p></h6>
-            </td>
-            <td align="center">
-              <h6><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="50" height="50"></a><p>Tailwind  </p></h6>
-            </td>
+           
+          
           </tr>
         </table>
       </h6>
