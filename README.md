@@ -66,8 +66,6 @@
             <td align="center">
               <h6><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript" width="50" height="50"></a><p>TypeScript</p></h6>
             </td>
-           
-          
           </tr>
         </table>
       </h6>
