@@ -61,7 +61,7 @@
         <table>
           <tr>
             <td align="center">
-              <h6><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50"></a><p>Python    </p></h6>
+              <h6><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="80" height="50"></a><p>Python    </p></h6>
             </td>
             <td align="center">
               <h6><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript" width="50" height="50"></a><p>TypeScript</p></h6>
