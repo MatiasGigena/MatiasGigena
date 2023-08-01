@@ -73,6 +73,8 @@
   </div>
 </h2>
 
+- 🎬 Best Projects: PI Food: A Single Page Application developed during my academic experience at Henry Bootcamp. I used React and Redux on the Front-end and Node.js with Express and PostgreSQL on the Back-end to create an application that allows users to search, sort, filter, and create new food recipes. 
+
 - 📝 I usually inform about my post on [https://www.linkedin.com/in/matias-gigena-7bk/](https://www.linkedin.com/in/matias-gigena-7bk/)
 
 - 📫 Hire me **matias.gigena7@outlook.es**
