@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Matías Gigena <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p>I am a skilled and versatile full-stack developer with a passion for creating dynamic and interactive web applications.</p>
+<p>I am a skilled and versatile full-stack developer with a passion for creating dynamic and interactive web applications. With a strong proficiency in both front-end and back-end technologies, I excel in building seamless user experiences while ensuring robust server-side functionality.</p>
 
 
 <h2 align="center">🧠 Lenguages and Tools
