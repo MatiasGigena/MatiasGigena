@@ -32,12 +32,6 @@ I’m currently at **UseTeam** and work in Spanish and English (**C1**).
 - **AI & automation:** OpenAI API, Hugging Face, LangChain, RAG, embeddings, prompt engineering, fine-tuning, NLP, computer vision, n8n, Puppeteer
 - **Infrastructure & delivery:** Docker, AWS, Linux, Nginx, Git, GitHub Actions, Vercel, DigitalOcean, Cloudflare, Agile, Scrum, Kanban
 
-## Selected work
-
-- [Rekon](https://www.rekonmedia.com/) — Design and development
-- [Nexiafy](https://nexiafy.useteam.io/) — Design and development
-- [Huntek](https://huntek-website.vercel.app/) — Design, development, and interaction
-
 ## Contact
 
 The best way to reach me is at [matias.gigena7@outlook.es](mailto:matias.gigena7@outlook.es).
