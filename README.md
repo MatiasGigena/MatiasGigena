@@ -32,6 +32,26 @@ I’m currently at **UseTeam** and work in Spanish and English (**C1**).
 - **AI & automation:** OpenAI API, Hugging Face, LangChain, RAG, embeddings, prompt engineering, fine-tuning, NLP, computer vision, n8n, Puppeteer
 - **Infrastructure & delivery:** Docker, AWS, Linux, Nginx, Git, GitHub Actions, Vercel, DigitalOcean, Cloudflare, Agile, Scrum, Kanban
 
+## Open-source projects
+
+### [Mauxi](https://github.com/MatiasGigena/Mauxi)
+
+A local-first Linux desktop workspace for responsive and accessibility audits. It connects viewport-specific findings to source code and supports agent-assisted fixes, live previews, and recoverable checkpoints.
+
+**Built with:** TypeScript, React, Electron, axe-core, Playwright, Vitest.
+
+### [LADE](https://github.com/MatiasGigena/LADE)
+
+A Linux Agentic Development Environment for working with coding agents in isolated Git worktrees. It combines durable state with a developer-controlled workflow to inspect, verify, approve, and integrate changes.
+
+**Built with:** Rust, SQLite, GTK4, Node.js, TypeScript, bubblewrap.
+
+### [Persistence](https://github.com/MatiasGigena/Persistence)
+
+A persistent AI assistant with terminal and mobile web interfaces, hierarchical conversation memory, and background agents. Built on Pi Durable with memory adapted from UniiChat, it supports SSH-connected workstations and recovery after interruptions.
+
+**Built with:** TypeScript, Node.js, WebSockets, SSH, Pi Durable.
+
 ## Contact
 
 The best way to reach me is at [matias.gigena7@outlook.es](mailto:matias.gigena7@outlook.es).
