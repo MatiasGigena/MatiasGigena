@@ -15,7 +15,7 @@
 
 I’m a software developer with 4+ years of experience building reliable digital products. I work across frontend, backend, cloud infrastructure, automation, and applied AI, with a focus on maintainable architecture, performance, and clear user experiences.
 
-I’m currently at **UseTeam** and work in Spanish and English (**C1**).
+I’m currently at **UseTeam** and work in Spanish and English (**C2**).
 
 ## Focus
 
